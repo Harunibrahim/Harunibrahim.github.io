@@ -3,12 +3,9 @@ body {
     background-color: gray
 }
 
-b {
-    color: rebeccapurple
+h3 {
+    font-family: Arial;
+  font-size: 20px;
+  color: #FF7A59;
 }
-
-b {
-    color: aliceblue
-}
-
 </style >
